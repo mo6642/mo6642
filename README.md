@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Mostafa
-- 👀 I’m interested computer scince 
-- 🌱 I’m currently learning web development
+- 👀 I’m computer scince student
+- 🌱 I’m currently intersted in cybersecurity feild
 - 📫 How to reach me ...
 
 <!---
